@@ -56,9 +56,10 @@ Developed and executed in **Visual Studio Code**.
 
 > The source code and full analysis for this study are available at:  
 > [https://github.com/Yinkzy007/Analysis-for-AI-Human-Collaboration-Within-the-Workforce](https://github.com/Yinkzy007/Analysis-for-AI-Human-Collaboration-Within-the-Workforce)
+> Kindly cite the paper if code/data is used.
 
 ---
 
 ## 🧠 License
 
-This research and code are shared for academic use. For reuse or collaboration, please contact the author via GitHub.
+This research and code are shared for academic use. For reuse or collaboration, please contact the author via GitHub or email at qquadri@ciu.edu.tr.
